@@ -1,54 +1,59 @@
-<h1 align="left">👋 Hey there! I'm Het Ratanpara.</h1>
+# 👋 Hey there! I'm Het Ratanpara
 
-###
+Welcome to my GitHub profile! I'm an enthusiastic Android developer with a passion for creating exceptional mobile experiences. Here's a glimpse of what you'll find here:
 
-<p align="left">Welcome to my GitHub profile! I'm an enthusiastic Android developer with a passion for creating exceptional mobile experiences. Here's a glimpse of what you'll find here:</p>
+---
 
-###
+## 💡 About Me
 
-<h2 align="left">🛠️ Skills:</h2>
+📚 Studying B.Tech in CSE @ Nirma University  
+🌟 Passionate about crafting innovative mobile experiences  
+🔍 Constantly learning and exploring new technologies  
+📱 Let's build something amazing together!  
+🚀 As an Android developer, I'm driven by a passion for crafting exceptional mobile experiences.  
+🛠️ With a robust skill set encompassing Java, Kotlin, and Android SDK, I specialize in:
+   - Building elegant and intuitive user interfaces.
+   - Implementing efficient and scalable solutions to meet project requirements.
+   - Prioritizing user experience and functionality in every aspect of development.
+     
+🌟 I thrive on staying at the forefront of mobile technology, constantly exploring:
+   - The latest advancements in Android development.
+   - Emerging frameworks and tools to streamline development processes.
+   - Innovative approaches to enhance app performance and usability.
 
-###
+---
 
-<p align="left">Languages: Java, Kotlin<br>Frameworks/Tools: Android SDK, Android Studio</p>
+## 🛠️ Skills
 
-###
+🔹 **Languages:** Java, Kotlin  
+🔹 **Frameworks/Tools:** Android SDK, Git, Firebase, SQLite  
+🔹 **Libraries/Technologies:** Material Design, Android Jetpack, Compose  
+🔹 **APIs:** RESTful API  
 
-<h2 align="left">🚀 What I Do:</h2>
+---
 
-###
 
-<p align="left">Develop innovative Android applications with a focus on user experience and functionality.<br>Constantly exploring new technologies and frameworks to stay at the cutting edge of mobile development.<br>Collaborate with teams to turn ideas into reality and deliver high-quality, scalable solutions.</p>
+## 📫 Let's Connect
 
-###
+🔹 **LinkedIn:** [Het Ratanpara](https://www.linkedin.com/in/hetratanpara/)       
+🔹 **Skype:** [Het Ratanpara](https://join.skype.com/invite/vTmNOv67CKnN)     
+🔹 **Instagram:** [het_ratanpara_28](https://www.instagram.com/het_ratanpara_28/)  
 
-<h2 align="left">📫 Let's Connect:</h2>
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/hetratanpara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="\https://www.instagram.com/het_ratanpara_28/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+## 💬 Open to Collaborate
 
-###
+I'm always on the lookout for exciting opportunities to collaborate on interesting projects. Whether you need help with Android development, API integration, or anything in between, feel free to reach out! Let's work together to build something amazing.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📝 Looking for
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
+I'm currently looking to join a dynamic team where I can contribute my skills and expertise in Android development. If you have any openings or know of any opportunities that align with my profile, I'd love to hear from you!
 
-###
+---
+
+## 🚀 Let's Build Something Awesome!
+
+Thanks for visiting my GitHub profile. Let's connect and create innovative solutions that make a difference! 🚀
