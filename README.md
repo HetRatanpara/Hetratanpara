@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Android developer with a passi
 
 🔹 **LinkedIn:** [Het Ratanpara](https://www.linkedin.com/in/hetratanpara/)       
 🔹 **Skype:** [Het Ratanpara](https://join.skype.com/invite/vTmNOv67CKnN)     
-🔹 **Instagram:** [het_ratanpara_28](https://www.instagram.com/het_ratanpara_28/)  
+🔹 **Instagram:** [het.ratanpara](https://www.instagram.com/het.ratanpara/)  
 
 
 ---
